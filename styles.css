@@ -1,0 +1,17 @@
+{
+  color: rgb(255, 255, 255); /* Sets the text color to blue */
+  font-size: 16px; /* Sets the font size to 16 pixels */
+  font-family: serif;
+}
+
+/* Selects the element with the ID "main-header" */
+#main-header {
+  background-color: rgb(0, 0, 0); /* Sets the background color to light gray */
+  padding: 20px; /* Adds 20 pixels of padding around the content */
+}
+
+/* Selects all elements with the class "highlight" */
+.highlight {
+  font-weight: bold; /* Makes the text bold */
+  border: 1px solid red; /* Adds a 1-pixel solid red border */
+}
